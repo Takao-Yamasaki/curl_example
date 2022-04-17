@@ -13,7 +13,7 @@ $ curl -X DELETE http://localhost:3000/articles/3
 ```
 
 ## postmanで特定の記事を更新してください
-[![Image from Gyazo](https://i.gyazo.com/f70243ea3276a8cfa1be53ce6860abe3.png)](https://gyazo.com/f70243ea3276a8cfa1be53ce6860abe3)
+[![Image from Gyazo](https://i.gyazo.com/09270c9585fe1e880b774ec5ca9d7344.png)](https://gyazo.com/09270c9585fe1e880b774ec5ca9d7344)
 
 ## postmanで特定の記事を削除してください
 [![Image from Gyazo](https://i.gyazo.com/efd08113e8328eba2fad4c3fe69550da.png)](https://gyazo.com/efd08113e8328eba2fad4c3fe69550da)
